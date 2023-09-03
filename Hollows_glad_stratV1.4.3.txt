@@ -1,4 +1,3 @@
---MultiStrat BOT V1.1
 repeat wait() until game:IsLoaded()
 getgenv().IsMultiStrat = true
 getgenv().Maps = {["Crystal Cave"] = {"DJ Booth","Commander","Accelerator","Gladiator","Farm"}, ["Marshlands"] = {"DJ Booth","Commander","Accelerator","Gladiator","Farm"}, ["Portland"] = {"DJ Booth","Commander","Accelerator","Gladiator","Farm"}, [""] = {"DJ Booth","Commander","Accelerator","Farm","Gladiator"}, }
